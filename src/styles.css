@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
 .container{
     justify-content: center;
     align-items: center;
     text-align: center;
     font-size: 18px;
+    border: 6px solid #B8B8B8;
+    border-radius: 6px 6px 6px 6px;
 }
 
 #popper{
@@ -17,9 +20,17 @@
 }
 
 #clas{
+    font-family: 'Peralta', cursive;
     padding: 10px;
 }
 
 #tittle{
     padding: 10px;
+    font-size: 49px;
+    font-family: 'Peralta', cursive;
+
+}
+
+strong{
+    font-family: 'Peralta', cursive; 
 }
